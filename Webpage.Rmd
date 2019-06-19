@@ -1,0 +1,12 @@
+---
+title: "Top"
+author: "JN-0"
+date: "2019年6月19日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+factor
+```
+$$\sqrt{1}$$
+$$\frac{1}{2}*n!$$
